@@ -1,6 +1,5 @@
-# PID-Controller-for-Motor-Control-System
+#PID Controller for Motor Control System
 
-PID Controller for Motor Control System
 Overview
 This project implements a PID Controller (Proportional-Integral-Derivative) to control the movement of a linear actuator in an electromechanical system. The PID controller is used to regulate both position and velocity through feedback loops, ensuring minimal error between the desired setpoints and the actual measured positions and velocities.
 Key Features
@@ -32,5 +31,4 @@ Technologies Used
 •	C++ Programming: Core control logic.
 •	Arduino Platform: Hardware interface for motor control and encoder reading.
 •	PID Control Algorithms: Fundamental control theory for managing position and velocity.
-
 
