@@ -39,11 +39,19 @@ Position Setpoint: The user inputs the desired position setpoint.
 Velocity Setpoint: The user inputs the desired velocity.
 
 The PID controller adjusts the motor’s power and direction based on the feedback from the encoder, ensuring the system reaches the target position and velocity.
+
 Applications
+
 Automation Systems: For controlling motors and actuators in robotics and manufacturing systems.
+
 Industrial Applications: Precision control of motors and actuators in machinery.
+
 Educational Use: Learn and apply PID control algorithms in real-time systems.
+
 Technologies Used
+
 C++ Programming: Core control logic.
+
 Arduino Platform: Hardware interface for motor control and encoder reading.
+
 PID Control Algorithms: Fundamental control theory for managing position and velocity.
